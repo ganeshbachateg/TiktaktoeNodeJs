@@ -13,7 +13,7 @@
 - 🔄 Reset game and statistics
 - 📱 Responsive design for all devices
 
-## Technologies Used
+## Technologies Used ##
 
 - React 18
 - TypeScript
